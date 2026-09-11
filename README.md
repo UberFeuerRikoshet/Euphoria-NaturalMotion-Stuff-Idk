@@ -1,8 +1,13 @@
 # Euphoria-NaturalMotion-Stuff-Idk
 Source: IDA Pro investigation of retail game data
+
+
 Status: recovered identifier/parameter vocabulary
+
+
 Not guaranteed: all entries are exposed, active, or accessible through retail configuration
 Purpose: research/reference
+
 
 Since no one wants to make something like this here we go
 
