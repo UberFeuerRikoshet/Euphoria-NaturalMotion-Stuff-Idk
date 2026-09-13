@@ -5,7 +5,9 @@ Source: IDA Pro investigation of retail game data
 Status: recovered identifier/parameter vocabulary
 
 
-Not guaranteed: all entries are exposed, active, or accessible through retail configuration
+all entries are exposed, active, or accessible through retail configuration
+
+
 Purpose: research/reference
 
 
