@@ -2,7 +2,7 @@
 Source: IDA Pro investigation of retail game data
 
 
-Status: recovered identifier/parameter vocabulary
+Status: recovered identifier/parameters
 
 
 all entries are exposed, active, or accessible through retail configuration
@@ -13,7 +13,7 @@ Purpose: research/reference
 
 Since no one wants to make something like this here we go
 
-This repo contains what I call my miserable life that I spent 3600+ hours of pain and suffering and hatred and despise of Euphoria debugging
+This repo contains what I call my miserable life that I spent 3800+ hours of pain and suffering and hatred and despise of Euphoria debugging
 
 It also contains ART files or what I would fancy myself to call phArticulatedBody. Here is a define for it 
 ART is an abbreviation prefix for Articulated Body/Rig/Agent. the physics representation used to simulate skeletons, bones, joints, and ragdoll reactions etc
